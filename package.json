@@ -82,7 +82,7 @@
     "request": "2.83.0",
     "root-require": "0.3.1",
     "sails-hook-orm": "^3.0.0-0",
-    "sails-hook-sockets": "^1.0.0-0",
+    "sails-hook-sockets": "git+https://github.com/ryd0rz/sails-hook-sockets.git",
     "sails.io.js": "^1.0.0",
     "session-file-store": "1.1.2",
     "should": "9.0.0",
