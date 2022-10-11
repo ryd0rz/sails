@@ -118,7 +118,7 @@
     "sails-disk": "~0.10.9",
     "sails-generate": "~0.13.0",
     "sails-hook-orm": "~1.0.9",
-    "sails-hook-sockets": "git+https://github.com/ryd0rz/sails-hook-sockets.git",
+    "sails-hook-sockets": "git+https://github.com/ryd0rz/sails-hook-sockets.git#main",
     "sails-stringfile": "~0.3.2",
     "sails-util": "~0.11.0",
     "semver": "5.1.0",
